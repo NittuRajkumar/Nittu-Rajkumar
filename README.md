@@ -1,12 +1,12 @@
 # Nittu-Rajkumar
 <h1 align="center">Hi 👋, I'm Nittu Rajkumar </h1>
-<h3 align="center">Full Stack MERN Developer | Passionate Problem Solver | Lifelong Learner</h3>
+<h3 align="center">MERN Full Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
   <a href="//" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://my-portfolio-1pb6.vercel.app/https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/veeraboina-saikumar/" target="_blank">
+  <a href="https://www.linkedin.com/in/rajkumar-nittu-7bb655309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m *Saikumar Veeraboina, a self-motivated and highly focused **Full Stack Web Developer* with hands-on experience in building responsive and scalable web applications using the *MERN stack*.
+I’m *Rajkumar Nittu, a self-motivated and highly focused **Full Stack Web Developer* with hands-on experience in building responsive and scalable web applications using the *MERN stack*.
 
 I love solving real-world problems with clean and efficient code. My passion for tech has led me to create multiple full-stack projects from scratch, always aiming for *quality UI/UX, **performance, and **user satisfaction*.
 
@@ -41,7 +41,6 @@ I love solving real-world problems with clean and efficient code. My passion for
 - MySql 
 
 ### ☁️ Tools & Platforms  
-- Postman  
 - Git & GitHub  
 - Render  
 - Netlify  
@@ -64,13 +63,15 @@ I love solving real-world problems with clean and efficient code. My passion for
 ## 🏆 Certifications & Achievements  
 - 🧾 Completed *MERN Stack Developer Program* at Nxtwave Advanced Training  
 - 🛍️ Built multiple full-stack applications:  
-  - 🛒 *Resume Builder with AI* – Simple React js Application using Gemini API
+- 🛒 *Resume Builder with AI* – Simple Collection Of MiniGames
+- NxtTrendz - Ecommerce Online Shoping Platform 
 ---
 
 ## 🔗 Let's Connect!
 
-- 🌐 *Gmail:* veeraboinasai123@gmail.com
-- 💼 *LinkedIn:* https://www.linkedin.com/in/veeraboina-saikumar/
+- 🌐 *Gmail:* nitturajkumar123@gmail.com
+- 💼 *LinkedIn:*https://www.linkedin.com/in/rajkumar-nittu-7bb655309/
+- ⭐ *website: * https://my-portfolio-1pb6.vercel.app/
 - 📧 You can reach me via *LinkedIn* or my *website contact form*  
 
 ---
