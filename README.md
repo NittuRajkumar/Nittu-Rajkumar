@@ -3,8 +3,8 @@
 <h3 align="center">MERN Full Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="//" target="_blank">
-    <img src="https://my-portfolio-1pb6.vercel.app/https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://my-portfolio-1pb6.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rajkumar-nittu-7bb655309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
