@@ -1,6 +1,6 @@
 # Nittu-Rajkumar
 <h1 align="center">Hi 👋, I'm Nittu Rajkumar </h1>
-<h3 align="center">MERN Full Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
+<h3 align="center">MERN Full Stack Developer | Passionate in Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://my-portfolio-1pb6.vercel.app" target="_blank">
@@ -29,8 +29,7 @@ I love solving real-world problems with clean and efficient code. My passion for
 - HTML5  
 - CSS3  
 - JavaScript  
-- React.js  
-- Redux  
+- React.js   
 - Tailwind CSS  
 - Bootstrap  
 
