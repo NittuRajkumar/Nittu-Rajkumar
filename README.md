@@ -1,6 +1,6 @@
 # Nittu-Rajkumar
 <h1 align="center">Hi 👋, I'm Nittu Rajkumar </h1>
-<h3 align="center">MERN Full Stack Developer | Passionate in Problem Solver | Lifelong Learner</h3>
+<h3 align="center">MERN Full Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://my-portfolio-1pb6.vercel.app" target="_blank">
@@ -50,20 +50,20 @@ I love solving real-world problems with clean and efficient code. My passion for
 - Firebase Auth  
 - Google APIs   
 
------
+-------
 
 ## 📚 Currently Learning  
 - 🤖 AI Tools & APIs  
 - 🔐 Advanced Authentication & Security  
 
------
+-------
 
 ## 🏆 Certifications & Achievements  
 - 🧾 Completed *MERN Stack Developer Program* at Nxtwave Advanced Training  
 - 🛍️ Built multiple full-stack applications:  
 - 🛒 *Resume Builder with AI* – Simple Collection Of MiniGames
 - NxtTrendz - Ecommerce Online Shoping Platform 
------
+-------
 
 ## 🔗 Let's Connect!
 
@@ -72,6 +72,6 @@ I love solving real-world problems with clean and efficient code. My passion for
 - ⭐ *website: * https://my-portfolio-1pb6.vercel.app/
 - 📧 You can reach me via *LinkedIn* or my *website contact form*  
 
-------
+--------
 
 ### ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
