@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m *Rajkumar Nittu, a self-motivated and highly focused **Full Stack Web Developer* with hands-on experience in building responsive and scalable web applications using the *MERN stack*.
+I’m *Rajkumar Nittu, a self-motivated and highly focused **Full Stack MERN Developer* with hands-on experience in building responsive and scalable web applications using the *MERN stack*.
 
 I love solving real-world problems with clean and efficient code. My passion for tech has led me to create multiple full-stack projects from scratch, always aiming for *quality UI/UX, **performance, and **user satisfaction*.
 
@@ -59,7 +59,7 @@ I love solving real-world problems with clean and efficient code. My passion for
 -------
 
 ## 🏆 Certifications & Achievements  
-- 🧾 Completed *MERN Stack Developer Program* at Nxtwave Advanced Training  
+- 🧾 Completed *MERN Stack Developer Program* at Nxtwave Advanced Training
 - 🛍️ Built multiple full-stack applications:  
 - 🛒 *Resume Builder with AI* – Simple Collection Of MiniGames
 - NxtTrendz - Ecommerce Online Shoping Platform 
