@@ -68,7 +68,7 @@ I love solving real-world problems with clean and efficient code. My passion for
 ## 🔗 Let's Connect!
 
 - 🌐 *Gmail:* nitturajkumar123@gmail.com
-- 💼 *LinkedIn:*https://www.linkedin.com/in/rajkumar-nittu-7bb655309/
+- 💼 *LinkedIn:* https://www.linkedin.com/in/rajkumar-nittu-7bb655309/
 - ⭐ *website: * https://my-portfolio-1pb6.vercel.app/
 - 📧 You can reach me via *LinkedIn* or my *website contact form*  
 
