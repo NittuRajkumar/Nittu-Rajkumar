@@ -23,7 +23,6 @@ I love solving real-world problems with clean and efficient code. My passion for
 ---
 
 ## 🚀 Tech Stack
-C CSS3 C++ Java JavaScript Python Netlify Render Vercel Bootstrap Context-API Express.js NodeJS React Socket.io TailwindCSS JWT MongoDB SQLite GitHub Git HTML5
 
 ### 💻 Frontend  
 - HTML5  
